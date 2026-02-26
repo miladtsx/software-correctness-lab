@@ -48,7 +48,7 @@ flowchart TD
 
 - Output constraints:
   - one logical effect
-  - one committed execution
+  - one COMMITTED execution per job_id
   - zero retries.
 - Idempotency boundary
   - sits at `COMMITTED`

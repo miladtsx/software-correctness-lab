@@ -76,3 +76,10 @@ For every known failure:
 - Every recovery mechanism must explicitly restore invariants 
 
 If an invariant cannot be enforced, it must be revised -- not ignored.
+
+--- 
+
+**Cross-links**
+
+- ["State Model"](./02_state_model.md) 
+- ["Policies"](./03_policies.md) 
